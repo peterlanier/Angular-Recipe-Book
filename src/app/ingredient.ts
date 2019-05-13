@@ -1,3 +1,3 @@
-export class Ingredient{
+export class Ingredient {
     name: string;
 }
