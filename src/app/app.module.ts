@@ -10,7 +10,7 @@ import { RecipeListComponent } from './recipes/recipe-list/recipe-list.component
 import { RecipeItemComponent } from './recipes/recipe-list/recipe-item/recipe-item.component';
 import { RecipeDetailComponent } from './recipes/recipe-detail/recipe-detail.component';
 import { Ingredient } from './ingredient';
-import {Recipe} from './recipe';
+import {Recipe} from './recipes/recipe.model';
 
 @NgModule({
   declarations: [
