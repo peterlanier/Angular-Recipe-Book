@@ -9,6 +9,8 @@ export class ShoppingListComponent implements OnInit {
 
   constructor() { }
 
+  ingredients = [];
+
   ngOnInit() {
   }
 
